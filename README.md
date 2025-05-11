@@ -22,7 +22,7 @@ Company,Bed/Bath,Price,Link
 
 ## Notes
 This project was developed with the help of AI and community tools.
-- Core coding assistance and debugging by [DeepSink](https://github.com/DeepSink)
+- Core coding assistance and debugging by [DeepSink](https://chat.deepseek.com/)
 - Project structure, documentation, and README support guided with GPT
 
 ## Contact
