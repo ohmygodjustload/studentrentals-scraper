@@ -12,6 +12,7 @@ A Java-based web scraper that reveals hidden apartment listings from [studentren
 Generates 'hidden_listings.csv' in your project folder with this format:
 
 Company,Bed/Bath,Price,Link
+
 "Prairie Properties","1br/1ba","$500","https://..."
 
 ## Technologies
